@@ -1,4 +1,26 @@
-body{
-    background-color:white;
-
+.first-div {
+  background-color:  black;
+  padding: 10px;
 }
+
+
+.main-heading {
+  font-family:  Helvetica;
+  color: white;
+}
+
+.sub-heading {
+  font-family: sans-serif;
+  color:#c0d6df ;
+  padding :10px;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 50px;
+}
+
+.main-section {
+max-width: 900px;
+line-height: 25px;}
+
